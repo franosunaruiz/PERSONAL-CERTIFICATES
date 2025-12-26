@@ -1,8 +1,8 @@
 # PERSONAL-CERTIFICATES
 This is for uploading my certificates.
 
-[PRL.pdf](https://github.com/user-attachments/files/24346498/CERTIFICADO_PRL.pdf)
+[PRL](https://github.com/user-attachments/files/24346498/CERTIFICADO_PRL.pdf)
 
-[CEDINOX.pdf](https://github.com/user-attachments/files/24346500/Certificado.CEDINOX.pdf)
+[CEDINOX](https://github.com/user-attachments/files/24346500/Certificado.CEDINOX.pdf)
 
-[CISUS - Osuna Ruiz, Francisco José.pdf](https://github.com/user-attachments/files/24346501/ACTIVIDADES.CISUS.-.Osuna.Ruiz.Francisco.Jose.pdf)
+[CISUS](https://github.com/user-attachments/files/24346501/ACTIVIDADES.CISUS.-.Osuna.Ruiz.Francisco.Jose.pdf)
