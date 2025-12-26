@@ -1,5 +1,4 @@
 # PERSONAL-CERTIFICATES
-This is for uploading my certificates.
 
 [PRL](https://github.com/user-attachments/files/24346498/CERTIFICADO_PRL.pdf)
 
